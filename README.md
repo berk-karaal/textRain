@@ -8,17 +8,17 @@ Example gif⤵
 
 ### HOW TO?
 
-Go to this url: http://berkkaraal.com/textRain/?txt=YOUR+TEXT
+Go to this url: http://berkkaraal.com/p5js/textRain/?txt=YOUR+TEXT
 
 Change _YOUR+TEXT_ with anything you want and go to that url.
 
 Example url:
 
-http://berkkaraal.com/textRain/?txt=GITHUB
+http://berkkaraal.com/p5js/textRain/?txt=GITHUB
 
-http://berkkaraal.com/textRain/?txt=I+LOVE+YOU
+http://berkkaraal.com/p5js/textRain/?txt=I+LOVE+YOU
 
-http://berkkaraal.com/textRain/?txt=CODE
+http://berkkaraal.com/p5js/textRain/?txt=CODE
 
 _Note:_ You can use '+' for spaces.
 
